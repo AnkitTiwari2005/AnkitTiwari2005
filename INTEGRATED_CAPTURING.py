@@ -60,3 +60,4 @@ capture_face()
 
 # Call the function to verify the face
 verify_face()
+
